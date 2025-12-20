@@ -70,5 +70,7 @@ Revenue stability depends heavily on loyal customers. Faster and more reliable f
 Final Insight
 Wonka can increase revenue not by expanding its product line or factory footprint, but by strategically focusing on what already works best. This analysis demonstrates that targeted optimization across products, locations, and customer relationships provides the strongest path to sustainable revenue growth.
 
+Project presentation link: 
 
+https://www.canva.com/design/DAG7O-orl6w/DYyOagM8eVlHyvt1v7GMYg/edit
 
