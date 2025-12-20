@@ -1,15 +1,47 @@
 Willy wonka factory data analysis with SQL by BCG 
 (Blanca, Jussara and Rodrigo)
 
-🍫 Wonka Chocolate Factory – Revenue Optimization Analysis
+Wonka Chocolate Factory – Revenue Optimization Analysis
 
-📝 Project Overview
+Project Overview
 This project analyzes Wonka Chocolate Factory’s sales, cost, factory performance, and customer purchasing behavior to identify practical opportunities to increase revenue and profitability.
 By examining product-level profitability, factory and location efficiency, and customer loyalty patterns, the analysis aims to answer a core business question:
 
 Where should Wonka focus its resources to maximize revenue while minimizing cost inefficiencies?
 
-🔑 Key Findings & Business Insights
+Project Structure:
+
+├───Data
+│   ├───Processed
+│   │       customer_loyalty.csv
+│   │       factories_profit.csv
+│   │       products_profit.csv
+│   │       products_profit_margin.csv
+│   │       product_sales_factory.csv
+│   │       profit&sales_factory.csv
+│   │       profit_margin_factory.csv
+│   │
+│   └───Raw
+│           wonka_choc_factory.csv
+│
+├───Notebooks
+│       .DS_Store
+│       03_charts_sql.ipynb
+│       factory&product_sales.ipynb
+│
+├────Queries
+│        Hypothesis_1.sql
+│        Hypothesis_2.sql
+│        Hypothesis_3.sql
+│         Schema.sql
+│  .DS_Store
+│  .gitattributes
+│  .Rhistory
+│  Erd_image.png
+└──README.MD
+
+
+Key Findings & Business Insights
 Product Profitability Concentration
 Finding:
 A limited number of products generate the majority of Wonka’s gross profit, while several products show high costs with relatively low sales or profit contribution.
@@ -35,7 +67,7 @@ Insight:
 Revenue stability depends heavily on loyal customers. Faster and more reliable fulfillment supports repeat purchasing behavior and long-term revenue growth.
 
 
-📌 Final Insight
+Final Insight
 Wonka can increase revenue not by expanding its product line or factory footprint, but by strategically focusing on what already works best. This analysis demonstrates that targeted optimization across products, locations, and customer relationships provides the strongest path to sustainable revenue growth.
 
 
